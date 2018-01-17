@@ -1,0 +1,14 @@
+#container{
+    background-color: rgb(50, 58, 94);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+#content{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+}
